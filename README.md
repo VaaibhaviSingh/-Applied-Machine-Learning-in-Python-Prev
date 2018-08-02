@@ -1,2 +1,2 @@
-# -Applied-Machine-Learning-in-Python-Prev
+# Applied-Machine-Learning-in-Python-Prev
 Coursera
